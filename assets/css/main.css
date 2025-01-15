@@ -48,7 +48,7 @@
 /*----------------------------------------*/
 /* 01. THEME DEFAULT CSS START
 /*----------------------------------------*/
-@import url('../../../../../css2');
+@import url('css2');
 :root {
   /**
   @font family declaration
@@ -1589,7 +1589,7 @@ input[type=color] {
   border-radius: 50%;
   color: var(--it-common-white);
   cursor: pointer;
-  background: var(--it-theme-1);
+  background: var(--it-theme-4);
   transition: 1s ease;
   border: none;
   display: inline-block;
