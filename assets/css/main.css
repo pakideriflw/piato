@@ -4150,7 +4150,7 @@ body.it-magic-cursor #magic-cursor {
 }
 
 .cr-footer-style .cr-footer-border {
-  border: 1px solid #0c1e1b;
+  border: 3px solid #a6805a;
   border-radius: 50px;
   margin: 0 160px;
 }
@@ -16068,6 +16068,12 @@ body.it-magic-cursor #magic-cursor {
   .ma-marketing-style-2 .ma-marketing-right {
     margin-left: 0px;
   }
+}
+.btn-fi{
+      position: inherit !important;
+      transform:inherit !important;
+      width: 100% !important;
+
 }
 
 /*# sourceMappingURL=main.css.map */
